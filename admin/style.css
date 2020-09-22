@@ -1,0 +1,92 @@
+*{margin: 0px;padding: 0px;}
+
+body{
+    width: 800px;
+    margin: auto;
+}
+a{text-decoration: none;
+font-family: cursive;
+}
+a:hover{text-decoration: underline;}
+ul{list-style-type: none;}
+i{color: #FF33CC;}
+#top{
+	width: 800px;
+	height: 80px;
+	border: 1px solid #000;
+	background-color: #99FFFF;
+	text-align:center;
+	line-height: 80px;
+}
+
+#menu{
+	margin-top: 8px;
+}
+
+#menu li a{
+
+	float: left;
+	width: 159px;
+	text-align: center;
+	line-height: 30px;
+	border-right: 1px solid #fff;
+	background-color: #33FF66;
+}
+
+#warpper table{
+	border-collapse: collapse;
+    margin-top: 20px;
+    width: 800px;
+    text-align:center;
+}
+
+#warpper table tr{
+border: 1px solid #0c6;
+line-height: 25px;
+}
+
+#warpper table td{
+	border: 1px solid #0c6;
+
+}
+
+
+
+#bottom{
+	margin-top: 10px;
+	width: 800px;
+	height: 40px;
+	background-color: #0c6;
+	
+}
+
+#bottom h3{
+	color: #fff; font-weight: bold; font-family: cursive; text-align: center;
+	line-height: 40px;
+}
+
+#wrapper2{
+	background-color: #0c6;
+}
+
+#wrapper2 table tr{
+	line-height: 30px;
+}
+
+#warpper2 table input{
+	padding: 2px;
+	
+}
+
+#wrapper2 fieldset{
+	padding: 20px;
+  background-color:  #66CCFF;
+}
+
+#detail img{
+border: 1px solid #000; width: 180px; height: 240px; float: left;
+}
+
+#info{
+	border: 1px solid #000;width: 298px; height: 240px; float: left; padding-left: 20px;
+}
