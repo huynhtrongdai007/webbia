@@ -151,7 +151,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`user_id`, `username`, `password`, `sdt`, `email`, `gender`, `birthday`, `level`) VALUES
-(1, 'kimdaihuynh', '123456', '01692978639', 'huynhtrongdaiz@gmail.com', 0, '1998-10-03', 2),
+(1, 'admin', '123456', '01692978639', 'admin@gmail.com', 0, '1998-10-03', 2),
 (2, 'trinh', '123', '091678902', 'trinh@gmail.com', 0, '2000-11-14', 1),
 (3, 'thao', '12345', '091879009', 'thao@gmail.com', 0, '1999-12-23', 1),
 (4, 'hang', '0009', '016789002', 'hang@gmail.com', 0, '1998-10-26', 1),
